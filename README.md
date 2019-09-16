@@ -1,2 +1,0 @@
-# revealCodesAndBox
-Created with CodeSandbox
